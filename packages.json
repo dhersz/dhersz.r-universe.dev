@@ -10,6 +10,9 @@
   {
     "package": "dhmisc",
     "url": "https://github.com/dhersz/dhmisc"
+  },
+  {
+    "package": "replr",
+    "url": "https://github.com/dhersz/replr"
   }
-
 ]
