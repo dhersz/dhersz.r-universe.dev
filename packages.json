@@ -14,5 +14,10 @@
   {
     "package": "replr",
     "url": "https://github.com/dhersz/replr"
+  },
+  {
+    "package": "aopint",
+    "url": "https://github.com/dhersz/aopint"
   }
+
 ]
