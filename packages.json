@@ -8,6 +8,10 @@
     "url": "https://github.com/r-transit/gtfsio"
   },
   {
+    "package": "accessibility",
+    "url": "https://github.com/ipeaGIT/accessibility"
+  },
+  {
     "package": "dhmisc",
     "url": "https://github.com/dhersz/dhmisc"
   },
