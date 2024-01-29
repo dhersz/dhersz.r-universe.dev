@@ -12,6 +12,15 @@
     "url": "https://github.com/ipeaGIT/accessibility"
   },
   {
+    "package": "enderecopadrao",
+    "url": "https://github.com/ipeagit/enderecopadrao"
+  },
+  {
+    "package": "rosmium",
+    "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
+    "url": "https://github.com/ipeagit/rosmium"
+  },
+  {
     "package": "dhmisc",
     "url": "https://github.com/dhersz/dhmisc"
   },
@@ -22,6 +31,9 @@
   {
     "package": "aopint",
     "url": "https://github.com/dhersz/aopint"
+  },
+  {
+    "package": "rosmosis",
+    "url": "https://github.com/dhersz/rosmosis"
   }
-
 ]
